@@ -90,6 +90,7 @@
         background-color: #eeeeee; /* สีของวงกลม */
         border-radius: 100% 0 0 0; /* ทำให้เป็น 1/4 วงกลม */
         opacity: 0.5
+        /* teeee */
     }
 
 
